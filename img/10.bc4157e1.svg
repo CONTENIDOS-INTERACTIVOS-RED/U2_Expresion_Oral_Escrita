@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="296.248" height="329.775" viewBox="0 0 296.248 329.775">
+  <defs>
+    <filter id="XMLID_1455_" x="0" y="114.96" width="113.24" height="195.123" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="XMLID_1455_2" x="71.806" y="0" width="187.836" height="211.024" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1206677" data-name="Grupo 1206677" transform="translate(-619.38 -2653.04)">
+    <g id="layer1" transform="translate(677.341 2697.314)">
+      <g id="N_2_" transform="translate(-47.841 -7.314)">
+        <path id="Trazado_1076715" data-name="Trazado 1076715" d="M286.128,0V292.815h-67.5L114.339,133.357V292.815H46.5V0h66.318L218.741,163.542V0Z" fill="#ffbe40"/>
+        <path id="Trazado_1076716" data-name="Trazado 1076716" d="M376.028,0V292.815h-67.5L256.5,213.263V83.041l52.141,80.5V0Z" transform="translate(-89.9)" fill="#ff9f40"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 619.38, 2653.04)" filter="url(#XMLID_1455_)">
+      <path id="XMLID_1455_3" data-name="XMLID_1455_" d="M66.06,170.578,79.572,48.834,97.75,59.464c5.536,3.226,11.331-3.739,7.171-8.6L63.033,1.985a5.68,5.68,0,0,0-8.618,0L12.523,50.864c-4.182,4.861,1.635,11.822,7.149,8.6l18.2-10.608,13.5,121.722c.945,8.733,13.745,8.736,14.69,0Z" transform="translate(-2.1 120.95)" fill="#ed7161"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 619.38, 2653.04)" filter="url(#XMLID_1455_2)">
+      <path id="XMLID_1455_4" data-name="XMLID_1455_" d="M64.032,164.284,77.046,47.032,94.553,57.27a5.468,5.468,0,0,0,6.907-8.282L61.117,1.912a5.471,5.471,0,0,0-8.3,0L12.471,48.987c-4.027,4.682,1.575,11.386,6.885,8.282L36.885,47.053l13,117.231c.91,8.41,13.238,8.414,14.148,0Z" transform="matrix(-0.84, 0.54, -0.54, -0.84, 259.95, 143.03)" fill="#ed7161"/>
+    </g>
+    <text id="Sube_la_voz" data-name="Sube la voz" transform="translate(664.5 2907.564) rotate(-90)" fill="#212429" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0em"><tspan x="0" y="19">Sube la voz</tspan></text>
+    <text id="Baja_la_voz" data-name="Baja la voz" transform="matrix(0.53, 0.848, -0.848, 0.53, 781.156, 2723.903)" fill="#212429" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0em"><tspan x="0" y="19">Baja la voz</tspan></text>
+  </g>
+</svg>
