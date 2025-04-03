@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="246" viewBox="0 0 400 246">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_417827" data-name="Rectángulo 417827" width="400" height="246" transform="translate(915 5030)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6ea7bd" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#85daf8" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#439dd3" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#439dd3" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="0" x2="0.5" y2="1" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ccf1ff" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#85daf8" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#69b3cf" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#85daf8" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#65a2b8" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#85daf8" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#81cce9" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#ccf1ff" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ccf1ff" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#ccf1ff" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#82d9f9" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#ccf1ff" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-13" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#87bed3" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#ccf1ff" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+  <g id="Enmascarar_grupo_1098869" data-name="Enmascarar grupo 1098869" transform="translate(-915 -5030)" clip-path="url(#clip-path)">
+    <g id="Grupo_1207725" data-name="Grupo 1207725" transform="translate(-84)">
+      <circle id="Elipse_12780" data-name="Elipse 12780" cx="161" cy="161" r="161" transform="translate(1053 4999)" fill="#f5fcec"/>
+      <g id="Objects" transform="translate(958.548 4921.114)">
+        <g id="Grupo_1207724" data-name="Grupo 1207724" transform="translate(94.005 107.949)">
+          <path id="Trazado_1078470" data-name="Trazado 1078470" d="M624.276,400.791c-37.191,0-23.834,88.129-49.07,88.129s-14.673-88.129-42.739-88.129Z" transform="translate(-300.383 -245.785)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+          <path id="Trazado_1078471" data-name="Trazado 1078471" d="M128.4,400.791c15.96,0,16.207,53.6,34.988,53.6s20.914-53.6,32.427-53.6Z" transform="translate(-110.194 -245.785)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+          <path id="Trazado_1078472" data-name="Trazado 1078472" d="M389.735,308.335c-31.2,0-33.881-103.973-70.591-103.973s-40.88,103.973-63.383,103.973Z" transform="translate(-170.141 -153.329)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+          <path id="Trazado_1078473" data-name="Trazado 1078473" d="M171.671,320.358c-31.847,0-21.85-90.451-43.459-90.451S118.039,320.358,94,320.358Z" transform="translate(-94.005 -165.353)" fill-rule="evenodd" fill="url(#linear-gradient-4)"/>
+          <path id="Trazado_1078474" data-name="Trazado 1078474" d="M298.436,400.791c-17.872,0-11.21,78.7-27.28,78.7s-6.7-78.7-30.381-78.7Z" transform="translate(-163.087 -245.785)" fill-rule="evenodd" fill="url(#linear-gradient-5)"/>
+          <path id="Trazado_1078475" data-name="Trazado 1078475" d="M450.657,262.955c-37.268,0-27.89-155.006-53.177-155.006s-10.7,155.006-38.823,155.006Z" transform="translate(-218.573 -107.949)" fill-rule="evenodd" fill="url(#linear-gradient-6)"/>
+          <path id="Trazado_1078476" data-name="Trazado 1078476" d="M405.114,400.791c-15.31,0-18.146,52.656-43.122,52.656s-25.442-52.656-46.665-52.656Z" transform="translate(-198.178 -245.785)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+          <path id="Trazado_1078477" data-name="Trazado 1078477" d="M235.962,375.1c-21.223,0-22.166-28.888-47.141-28.888S161.009,375.1,145.7,375.1Z" transform="translate(-118.337 -220.097)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+          <path id="Trazado_1078478" data-name="Trazado 1078478" d="M484.955,325.533c15.309,0,18.145-84.633,43.121-84.633s25.441,84.633,46.665,84.633Z" transform="translate(-278.019 -170.527)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+          <path id="Trazado_1078479" data-name="Trazado 1078479" d="M274.082,343.884c-16.562,0-11.374-64-22.613-64s-5.29,64-17.789,64Z" transform="translate(-159.748 -188.878)" fill-rule="evenodd" fill="url(#linear-gradient-10)"/>
+          <path id="Trazado_1078480" data-name="Trazado 1078480" d="M296.832,400.791c30.175,0,19.882,41.286,40.357,41.286s9.639-41.285,32.41-41.285H296.832Z" transform="translate(-189.473 -245.785)" fill-rule="evenodd" fill="url(#linear-gradient-11)"/>
+          <path id="Trazado_1078481" data-name="Trazado 1078481" d="M506.009,293.29c-29.393,0-20.187-120.893-40.131-120.893S456.489,293.29,434.307,293.29Z" transform="translate(-254.18 -138.284)" fill-rule="evenodd" fill="url(#linear-gradient-12)"/>
+          <path id="Trazado_1078482" data-name="Trazado 1078482" d="M569.769,400.791c29.393,0,20.186,78.7,40.131,78.7s9.388-78.7,31.57-78.7Z" transform="translate(-317.94 -245.785)" fill-rule="evenodd" fill="url(#linear-gradient-13)"/>
+          <path id="Trazado_1078483" data-name="Trazado 1078483" d="M243.285,400.791c-31.22,0-19.171,17.455-40.355,17.455s-11.2-17.455-34.759-17.455Z" transform="translate(-128.914 -245.785)" fill-rule="evenodd" fill="url(#linear-gradient-11)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

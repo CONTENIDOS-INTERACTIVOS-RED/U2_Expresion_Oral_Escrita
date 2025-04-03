@@ -1,7 +1,7 @@
 export default {
   global: {
-    numeroUnidad: '3',
-    tituloUnidad: 'Bioética y sostenibilidad en el desarrollo económico global',
+    numeroUnidad: '2',
+    tituloUnidad: 'Elementos de la oratoria en la pedagogía',
   },
   menuPrincipal: {
     menu: [
@@ -118,26 +118,95 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
-      link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'Ballenato Prieto, G. (2013). Hablar en público: arte y técnica de la oratoria: (ed.). Difusora Larousse - Ediciones Pirámide. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/114680',
+    },
+    {
+      referencia: 'Yagosesky, R. (sf). El poder de la oratoria . [PDF]. ',
+      link: 'https://www.academia.edu/41330266/EL_PODER_DE_LA_ORATORIA  ',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Artesero García, M. (2017). El don de la palabra: pierde miedo a hablar en público. Manual práctico de oratoria: (ed.). Editorial Tébar Flores. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/51987 ',
+    },
+    {
+      referencia:
+        'Grau Olivares, M. Gordillo León, F. & López Pérez, R. M. (2016). Comportamiento no verbal: más allá de la comunicación y el lenguaje: ( ed.). Difusora Larousse - Ediciones Pirámide. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/115592',
+    },
+    {
+      referencia:
+        'Irigoyen Chamizo, C. (2019). Estudio del lenguaje que los maestros de primaria utilizan en el aula. Universidad de Oviedo. ',
+      link:
+        'https://repositorio.unican.es/xmlui/bitstream/handle/10902/17655/IrigoyenChamizoCarmen.pdf?sequence=1&isAllowed=y ',
     },
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'Lenguaje corporal',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'conjunto de gestos, posturas y movimientos que complementan la comunicación verbal.',
     },
     {
-      termino: '<em>Design Thinking</em>',
+      termino: 'Expresión facial',
       significado:
-        'método de diseño centrado en el usuario que se basa en la comprensión de las necesidades y expectativas de los clientes, para crear soluciones innovadoras y efectivas.',
+        'manifestación de emociones a través del rostro, fundamental en la interacción comunicativa.',
+    },
+    {
+      termino: 'Postura',
+      significado:
+        'posición del cuerpo que refleja actitudes, emociones y estados de ánimo.',
+    },
+    {
+      termino: 'Gesticulación',
+      significado:
+        'uso de movimientos de las manos y brazos para enfatizar el mensaje verbal.',
+    },
+    {
+      termino: 'Contacto visual',
+      significado:
+        'interacción visual entre emisor y receptor que refuerza la comunicación y la confianza.',
+    },
+    {
+      termino: 'Proxémica',
+      significado:
+        'estudio del uso del espacio en la comunicación y su impacto en las relaciones interpersonales.',
+    },
+    {
+      termino: 'Paralenguaje',
+      significado:
+        'elementos no verbales del habla, como el tono, ritmo y volumen de la voz.',
+    },
+    {
+      termino: 'Dicción',
+      significado:
+        'claridad y precisión en la pronunciación de palabras para una mejor comprensión.',
+    },
+    {
+      termino: 'Entonación',
+      significado:
+        'variación del tono de voz que aporta significado y énfasis en el discurso.',
+    },
+    {
+      termino: 'Ritmo del discurso',
+      significado:
+        'velocidad y fluidez con la que se transmite un mensaje oral.',
+    },
+    {
+      termino: 'Técnica de la N',
+      significado:
+        'estrategia de vocalización para mejorar la resonancia y la proyección de la voz.',
+    },
+    {
+      termino: 'Fuerza vocal',
+      significado:
+        'capacidad de proyectar la voz con potencia sin forzar las cuerdas vocales.',
+    },
+    {
+      termino: 'Administración corporal',
+      significado:
+        'manejo consciente del cuerpo para mejorar la expresión y reforzar el mensaje oral.',
     },
   ],
 }
