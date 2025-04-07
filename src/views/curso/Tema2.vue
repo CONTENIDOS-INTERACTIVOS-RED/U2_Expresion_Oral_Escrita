@@ -23,7 +23,7 @@
             .col-lg-auto
               img(src="@/assets/curso/tema2/3.svg", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 La El dominio del lenguaje corporal en la enseñanza requiere desarrollar habilidades específicas. Comprender la función de las partes blandas de la comunicación, utilizar adecuadamente las manos para enfatizar ideas y gestionar la postura corporal permiten mejorar la expresión. La administración de los movimientos superiores del cuerpo y la elección de posiciones estratégicas en el aula fortalecen la interacción con los estudiantes.
+              p.mb-0 El dominio del lenguaje corporal en la enseñanza requiere desarrollar habilidades específicas. Comprender la función de las partes blandas de la comunicación, utilizar adecuadamente las manos para enfatizar ideas y gestionar la postura corporal permiten mejorar la expresión. La administración de los movimientos superiores del cuerpo y la elección de posiciones estratégicas en el aula fortalecen la interacción con los estudiantes.
     
     .bg-full-width.bg-h85.mb-5
       .px-4.px-md-5
@@ -331,12 +331,12 @@
         .row.justify-content-center.align-items-center
           .col-lg-8.order-2
             h2.mb-4(data-aos="flip-up") Aplicación de las técnicas de expresión en la enseñanza
-            p.mb-4(data-aos="fade-right") Se invita a leer el documento <b>Aplicación de las técnicas de expresión en la enseñanza,</b> en el que se exploran estrategias clave para mejorar la comunicación en el aula. Se presentan técnicas efectivas para integrar el lenguaje verbal y corporal, evitar errores comunes en la expresión oral y controlar el nerviosismo al hablar en público
+            p.mb-4(data-aos="fade-right") Se invita a leer el documento <b>Lenguaje corporal y su impacto en la comunicación pedagógica</b>, en el que se exploran estrategias clave para mejorar la comunicación en el aula. Se presentan técnicas efectivas para integrar el lenguaje verbal y corporal, evitar errores comunes en la expresión oral y controlar el nerviosismo al hablar en público
             a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p <strong>Anexo. </strong> Aplicación de las técnicas de expresión en la enseñanza.
+                p <strong>Anexo. </strong> Lenguaje corporal y su impacto en la comunicación pedagógica
     
           .col-lg-4.order-1.mb-3.mb-lg-0
             figure(data-aos="zoom-in")

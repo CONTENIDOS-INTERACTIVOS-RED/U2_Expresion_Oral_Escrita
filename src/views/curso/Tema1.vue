@@ -81,7 +81,7 @@
             .col-lg-auto
               img(src="@/assets/curso/tema1/9.svg", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0La clave de esta técnica es pronunciar palabras que contengan la letra "N" de forma prolongada, sintiendo la vibración en la parte superior del rostro, específicamente en la nariz y los pómulos. Al hacer esto, se entrena la voz para que resuene en los puntos correctos, logrando un tono más firme y proyectado sin esfuerzo.
+              p.mb-0 La clave de esta técnica es pronunciar palabras que contengan la letra "N" de forma prolongada, sintiendo la vibración en la parte superior del rostro, específicamente en la nariz y los pómulos. Al hacer esto, se entrena la voz para que resuene en los puntos correctos, logrando un tono más firme y proyectado sin esfuerzo.
     
     .titulo-figura.mb-4
       h5 Figura 1.
@@ -325,7 +325,7 @@
       .p-4.p-md-5
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/9cqLwqWDCzs?si=F1b2M6SlLRnGqFf9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/gsbxWB3dJ9o?si=KtALN_B0tW_2_gLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .bg-full-width.bg-color-14.mb-lg-5
       .px-4.p-md-5
